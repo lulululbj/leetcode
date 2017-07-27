@@ -1,4 +1,4 @@
-package test;
+package test.array;
 
 import luyao.array.TwoSum;
 import org.junit.Before;
@@ -12,18 +12,15 @@ import static org.junit.Assert.*;
  */
 public class TwoSumTest {
 
-    int[] nums={3,2,4};
-    int target=6;
-
-    @Before
-    public void setUp() throws Exception {
-
-    }
+    int[] nums={3,2,8,2};
+    int target=11;
 
     @Test
     public void twosum() throws Exception {
          int[] result= TwoSum.twosum(nums,target);
+         int[] result2= TwoSum.twosum2(nums,target);
          assertEquals(nums[result[0]]+nums[result[1]],target);
+         assertEquals(nums[result2[0]]+nums[result2[1]],target);
     }
 
 }
