@@ -17,8 +17,8 @@ public class TwoSumTest {
 
     @Test
     public void twosum() throws Exception {
-         int[] result= TwoSum.twosum(nums,target);
-         int[] result2= TwoSum.twosum2(nums,target);
+         int[] result= TwoSum.solution(nums,target);
+         int[] result2= TwoSum.solution2(nums,target);
          assertEquals(nums[result[0]]+nums[result[1]],target);
          assertEquals(nums[result2[0]]+nums[result2[1]],target);
     }
