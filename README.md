@@ -1,7 +1,7 @@
-# leetcode
-my leetcode record
+# LeetCode
 
-#### [Array](src/luyao/array)
+
+#### [Array](src/luyao/array) (4/98)
 
 - [Two Sum](src/luyao/array/TwoSum.java) (Easy)
 - [Plus One](src/luyao/array/PlusOne.java) (Easy)
