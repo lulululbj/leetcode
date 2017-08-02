@@ -12,11 +12,12 @@ import static org.junit.Assert.*;
  */
 public class TwoSumTest {
 
-    int[] nums={3,2,8,2};
-    int target=11;
+
 
     @Test
     public void twosum() throws Exception {
+        int[] nums={3,2,8,2};
+        int target=11;
          int[] result= TwoSum.solution(nums,target);
          int[] result2= TwoSum.solution2(nums,target);
          assertEquals(nums[result[0]]+nums[result[1]],target);
