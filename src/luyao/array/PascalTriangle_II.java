@@ -3,18 +3,20 @@ package luyao.array;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/*
  * Given an index k, return the kth row of the Pascal's triangle.
  * For example, given k = 3,
  * Return [1,3,3,1].
  * Note:
  * Could you optimize your algorithm to use only O(k) extra space?
- * <p>
+ *
  * 数组形式返回帕斯卡三角形的第k行，空间复杂度为O（k）
- * <p>
- * Created by Lu
- * on 2017/7/29 16:12
  */
+
+ /**
+  * Created by Lu
+  * on 2017/7/29 16:12
+  */
 public class PascalTriangle_II {
 
     public static int[] solution(int k) {
