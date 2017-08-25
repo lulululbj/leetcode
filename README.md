@@ -1,7 +1,7 @@
 # LeetCode
 
 
-#### [Array](src/luyao/array) (7/98)
+#### [Array](src/main/java/luyao/array) (7/98)
 
 
 | No. | Title | Solution | Unit Test | Difficulty |
