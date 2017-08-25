@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  * Created by Lu
  * on 2017/8/2 22:38
  */
-public class TwoSum_IITest {
+public class TwoSum_II_Test {
 
     @Test
     public void solution() throws Exception {

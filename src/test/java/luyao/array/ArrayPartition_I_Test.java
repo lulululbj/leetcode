@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  * Created by Lu
  * on 2017/8/2 22:20
  */
-public class ArrayPartition_ITest {
+public class ArrayPartition_I_Test {
     @Test
     public void solution() throws Exception {
 

@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
  * Created by Lu
  * on 2017/7/29 16:17
  */
-public class PascalTriangle_IITest {
+public class PascalTriangle_II_Test {
     @Test
     public void pacsalTriangleII() throws Exception {
         int[] result1 = PascalTriangle_II.solution(1);
