@@ -12,6 +12,9 @@ package luyao.array;
  * Note:
  * n is a positive integer, which is in the range of [1, 10000].
  * All the integers in the array will be in the range of [-10000, 10000].
+ *
+ * 给定 int 数组，元素个数为偶数。将数组中元素两两分组，使得每组中较小值的总和最大
+ * 思路：每组中两个元素差值尽量小，给数组排序即可
  */
 
 import java.util.Arrays;
