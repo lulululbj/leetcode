@@ -12,7 +12,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](src/luyao/array/TwoSum.java)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](src/main/luyao/array/TwoSum.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](src/luyao/array/PlusOne.java)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Java](src/luyao/array/PascalTriangle_II.java)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](src/luyao/array/TwoSum_II.java)|Easy|
