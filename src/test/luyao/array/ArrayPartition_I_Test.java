@@ -1,6 +1,6 @@
-package luyao.array;
+package test.luyao.array;
 
-import luyao.array.ArrayPartition_I;
+import main.luyao.array.ArrayPartition_I;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

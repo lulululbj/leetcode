@@ -1,6 +1,6 @@
-package luyao.array;
+package test.luyao.array;
 
-import luyao.array.PlusOne;
+import main.luyao.array.PlusOne;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

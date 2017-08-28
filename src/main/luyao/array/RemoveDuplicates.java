@@ -1,4 +1,4 @@
-package luyao.array;
+package main.luyao.array;
 
 /*
  * Given a sorted array, remove the duplicates in place such that each element appear only once and return the new * length.

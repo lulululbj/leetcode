@@ -1,12 +1,10 @@
-package luyao.array;
+package test.luyao.array;
 
-import luyao.array.PascalTriangle_II;
+import main.luyao.array.PascalTriangle_II;
 import org.junit.Test;
-import luyao.utils.Utils;
+import test.luyao.utils.Utils;
 
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by Lu

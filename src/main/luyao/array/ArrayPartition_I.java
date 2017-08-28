@@ -1,4 +1,4 @@
-package luyao.array;
+package main.luyao.array;
 
 /*
  * Given an array of 2n integers, your task is to group these integers into n pairs of integer,

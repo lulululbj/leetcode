@@ -1,4 +1,4 @@
-package luyao.array;
+package test.luyao.array;
 
 import org.junit.Test;
 

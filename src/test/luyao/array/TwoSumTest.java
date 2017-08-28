@@ -1,7 +1,6 @@
-package luyao.array;
+package test.luyao.array;
 
-import luyao.array.TwoSum;
-import org.junit.Before;
+import main.luyao.array.TwoSum;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,6 +1,6 @@
-package luyao.array;
+package test.luyao.array;
 
-import luyao.array.FindDisappearedNumbers;
+import main.luyao.array.FindDisappearedNumbers;
 import org.junit.Test;
 
 import java.util.List;

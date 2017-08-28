@@ -1,4 +1,4 @@
-package luyao.string;
+package main.luyao.string;
 
 /**
  * Created by Lu
