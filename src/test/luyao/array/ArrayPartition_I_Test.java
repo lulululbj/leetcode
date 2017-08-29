@@ -1,4 +1,4 @@
-package test.luyao.array;
+package luyao.array;
 
 import main.luyao.array.ArrayPartition_I;
 import org.junit.Test;

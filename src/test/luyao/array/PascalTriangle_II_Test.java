@@ -1,8 +1,9 @@
-package test.luyao.array;
+package luyao.array;
 
+import luyao.utils.Utils;
 import main.luyao.array.PascalTriangle_II;
 import org.junit.Test;
-import test.luyao.utils.Utils;
+
 
 import java.util.List;
 

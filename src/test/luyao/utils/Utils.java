@@ -1,4 +1,4 @@
-package test.luyao.utils;
+package luyao.utils;
 
 /**
  * Created by Lu

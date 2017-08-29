@@ -1,5 +1,6 @@
-package test.luyao.array;
+package luyao.array;
 
+import main.luyao.array.RemoveElement;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

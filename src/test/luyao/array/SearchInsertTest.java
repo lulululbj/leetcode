@@ -1,5 +1,6 @@
-package test.luyao.array;
+package luyao.array;
 
+import main.luyao.array.SearchInsert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
