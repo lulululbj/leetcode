@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc39b4fb-ba90-4de4-a750-456ad8778039" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/luyao/Write.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/update_log.md" afterPath="$PROJECT_DIR$/update_log.md" />
     </list>
@@ -45,12 +44,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxProfit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxProfit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/luyao/array/MaxProfit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="536">
               <caret line="36" column="22" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="36" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_log.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/update_log.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -751,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504145899340</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update log">
+      <created>1504147941772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504147941772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -829,7 +850,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
+    <MESSAGE value="update log" />
+    <option name="LAST_COMMIT_MESSAGE" value="update log" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1154,24 +1176,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/update_log.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/luyao/array/MaxProfit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
           <caret line="36" column="22" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="36" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_log.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
