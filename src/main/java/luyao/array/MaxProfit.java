@@ -25,7 +25,7 @@ package luyao.array;
  * Created by luyao
  * on 2017/8/31 9:39
  */
-public class Maxprofit {
+public class MaxProfit {
 
     public static int solution(int[] prices) {
         int min = Integer.MAX_VALUE;
