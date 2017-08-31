@@ -1,4 +1,4 @@
-group 'luyao'
+group 'LeetCode'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
