@@ -2,9 +2,8 @@
 out
 .gradle
 .idea
-gradle
-libs
-gradlew
-gradlew.bat
 LeetCode.iml
 settings.gradle
+build.gradle
+src/main/resources/
+src/test/resources/
