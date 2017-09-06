@@ -1,2 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 out
+.gradle
+.idea
+gradle
+libs
+gradlew
+gradlew.bat
+LeetCode.iml
+settings.gradle
