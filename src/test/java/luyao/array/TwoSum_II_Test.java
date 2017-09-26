@@ -12,9 +12,12 @@ public class TwoSum_II_Test {
 
     @Test
     public void solution() throws Exception {
+
+        TwoSum_II twoSumIi=new TwoSum_II();
+
         int[] nums={3,2,8,2};
         int target=11;
-        int[] result= TwoSum_II.solution(nums,target);
+        int[] result= twoSumIi.solution(nums,target);
         assertEquals(result[0],1);
         assertEquals(result[1],3);
     }

@@ -23,7 +23,7 @@ package luyao.array;
 public class SearchInsert {
 
     // 循环遍历
-    public static int solution(int[] nums, int target) {
+    public  int solution(int[] nums, int target) {
 
         if (target < nums[0]) return 0;
         if (target > nums[nums.length - 1]) return nums.length;
@@ -35,7 +35,7 @@ public class SearchInsert {
     }
 
     // 类似二分法
-    public static int solution2(int[] nums, int target) {
+    public  int solution2(int[] nums, int target) {
         int start = 0;
         int end = nums.length - 1;
         while (start <= end) {

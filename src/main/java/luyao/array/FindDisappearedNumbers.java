@@ -22,7 +22,7 @@ import java.util.List;
  */
 public class FindDisappearedNumbers {
 
-    public static List<Integer> solution(int[] nums) {
+    public  List<Integer> solution(int[] nums) {
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
             int n = Math.abs(nums[i]) - 1;

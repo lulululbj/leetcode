@@ -13,10 +13,13 @@ public class PlusOneTest {
 
     @Test
     public void plusOne() throws Exception {
+
+        PlusOne plusOne=new PlusOne();
+
          assertEquals(123,toInt(new int[]{1,2,3}));
-         assertEquals(124, toInt(PlusOne.solution(new int[]{1,2,3})));
-         assertEquals(130, toInt(PlusOne.solution(new int[]{1,2,9})));
-         assertEquals(1000, toInt(PlusOne.solution(new int[]{9,9,9})));
+         assertEquals(124, toInt(plusOne.solution(new int[]{1,2,3})));
+         assertEquals(130, toInt(plusOne.solution(new int[]{1,2,9})));
+         assertEquals(1000, toInt(plusOne.solution(new int[]{9,9,9})));
     }
 
     public int toInt(int[] digits) {

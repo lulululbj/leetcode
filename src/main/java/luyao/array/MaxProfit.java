@@ -27,7 +27,7 @@ package luyao.array;
  */
 public class MaxProfit {
 
-    public static int solution(int[] prices) {
+    public  int solution(int[] prices) {
         int min = Integer.MAX_VALUE;
         int profit = 0;
         for (int price : prices) {

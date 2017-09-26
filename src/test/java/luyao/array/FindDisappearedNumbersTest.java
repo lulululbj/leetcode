@@ -15,8 +15,9 @@ public class FindDisappearedNumbersTest {
 
     @Test
     public void solution() throws Exception {
+        FindDisappearedNumbers findDisappearedNumbers=new FindDisappearedNumbers();
         int[] nums={2,2,3,4,3};
-        List<Integer> result= FindDisappearedNumbers.solution(nums);
+        List<Integer> result= findDisappearedNumbers.solution(nums);
         assertEquals(result.size(),2);
         assertEquals(result.contains(1),true);
         assertEquals(result.contains(5),true);

@@ -30,7 +30,7 @@ public class Maximum_Product_Of_Three_Numbers {
      * Time complexity : O(nlog(n))
      * Space complexity : O(log(n))
      */
-    public static int solution(int[] nums) {
+    public  int solution(int[] nums) {
         Arrays.sort(nums);
         return Math.max(nums[nums.length - 1] * nums[nums.length - 2] * nums[nums.length - 3],
                 nums[0] * nums[1] * nums[nums.length - 1]);
@@ -41,7 +41,7 @@ public class Maximum_Product_Of_Three_Numbers {
      * Time complexity: O(n)
      * Space complexity: O(1)
      */
-    public static int solution2(int[] nums) {
+    public  int solution2(int[] nums) {
         int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = Integer.MIN_VALUE;
 

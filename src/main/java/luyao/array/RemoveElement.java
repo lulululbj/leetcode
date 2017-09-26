@@ -22,7 +22,7 @@ package luyao.array;
  */
 public class RemoveElement {
 
-    public static int solution(int[] nums, int val) {
+    public  int solution(int[] nums, int val) {
 
         int m = 0;
         for (int i = 0; i < nums.length; i++) {

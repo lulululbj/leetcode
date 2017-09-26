@@ -19,7 +19,7 @@ import java.util.List;
  */
 public class PascalTriangle_II {
 
-   public static int[] solution(int k) {
+   public  int[] solution(int k) {
        int[] result = new int[k];
        int previous = 1;
        for (int i = 1; i <= k; i++) {
@@ -32,7 +32,7 @@ public class PascalTriangle_II {
        return result;
    }
 
-   public static List<Integer> solution2(int k) {
+   public  List<Integer> solution2(int k) {
        List<Integer> result=new ArrayList<>();
 
       for (int i=0;i<=k;i++){
@@ -44,7 +44,7 @@ public class PascalTriangle_II {
        return result;
    }
 
-   public static List<Integer> pacsalTriangleII3(int k) {
+   public  List<Integer> pacsalTriangleII3(int k) {
        List<Integer> result=new ArrayList<>();
 
        for (int i=0;i<=k;i++){

@@ -12,12 +12,14 @@ import java.util.List;
 public class PascalTriangle_II_Test {
     @Test
     public void pacsalTriangleII() throws Exception {
-        int[] result1 = PascalTriangle_II.solution(1);
-        int[] result2 = PascalTriangle_II.solution(2);
-        int[] result3 = PascalTriangle_II.solution(3);
-        int[] result4 = PascalTriangle_II.solution(4);
-        List<Integer> result5 = PascalTriangle_II.solution2(4);
-        List<Integer> result6 = PascalTriangle_II.pacsalTriangleII3(4);
+
+        PascalTriangle_II pascalTriangleIi=new PascalTriangle_II();
+        int[] result1 = pascalTriangleIi.solution(1);
+        int[] result2 = pascalTriangleIi.solution(2);
+        int[] result3 = pascalTriangleIi.solution(3);
+        int[] result4 = pascalTriangleIi.solution(4);
+        List<Integer> result5 = pascalTriangleIi.solution2(4);
+        List<Integer> result6 = pascalTriangleIi.pacsalTriangleII3(4);
         Utils.printArray(result1);
         Utils.printArray(result2);
         Utils.printArray(result3);

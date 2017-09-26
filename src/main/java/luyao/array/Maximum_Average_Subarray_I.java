@@ -24,7 +24,7 @@ public class Maximum_Average_Subarray_I {
      * 最简单的循环嵌套，求出最大值
      * 超时，无法通过 OJ
      */
-    public static double solution(int[] nums, int k) {
+    public  double solution(int[] nums, int k) {
         double average = 0;
         for (int i = 0; i <= nums.length - k; i++) {
             double count = nums[i];
@@ -48,7 +48,7 @@ public class Maximum_Average_Subarray_I {
      * Time Complexity: O(n)
      * Space Complexity: O(1)
      */
-    public static double solution2(int[] nums, int k) {
+    public  double solution2(int[] nums, int k) {
         double sum = 0;
         for (int i = 0; i < k; i++) {
             sum += nums[i];

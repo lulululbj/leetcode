@@ -24,7 +24,7 @@ package luyao.array;
  */
 public class RemoveDuplicates {
 
-    public static int solution(int[] nums) {
+    public  int solution(int[] nums) {
         int m = 0;
         for (int i = 1; i < nums.length; i++) {
             if (nums[m] != nums[i]) {

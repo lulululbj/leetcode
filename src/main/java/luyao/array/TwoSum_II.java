@@ -20,7 +20,7 @@ import java.util.Map;
  */
 public class TwoSum_II {
 
-    public static int[] solution(int[] numbers, int target) {
+    public  int[] solution(int[] numbers, int target) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < numbers.length; i++) {
             if (map.containsKey(target - numbers[i]))

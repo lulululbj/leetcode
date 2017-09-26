@@ -14,7 +14,7 @@ package luyao.array;
  */
 public class PlusOne {
 
-    public static int[] solution(int[] digits) {
+    public  int[] solution(int[] digits) {
         for (int i = digits.length - 1; i >= 0; i--) {
             if (digits[i] < 9) {
                 digits[i]++;
