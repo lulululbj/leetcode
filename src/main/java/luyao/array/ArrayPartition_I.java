@@ -25,7 +25,7 @@ import java.util.Arrays;
  */
 public class ArrayPartition_I {
 
-    public static int solution(int[] nums) {
+    public  int solution(int[] nums) {
         Arrays.sort(nums);
         int sum = 0;
         for (int i = 0; i < nums.length; i += 2)

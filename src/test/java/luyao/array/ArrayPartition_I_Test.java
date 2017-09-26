@@ -15,8 +15,8 @@ public class ArrayPartition_I_Test {
         int[] nums={1,3,2,4};
         int[] nums2={1,5,2,4,3,7};
 
-        assertEquals(ArrayPartition_I.solution(nums),1+3);
-        assertEquals(ArrayPartition_I.solution(nums2),1+3+5);
+        assertEquals(new ArrayPartition_I().solution(nums),1+3);
+        assertEquals(new ArrayPartition_I().solution(nums2),1+3+5);
     }
 
 }
