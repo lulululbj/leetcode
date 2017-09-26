@@ -1,5 +1,7 @@
 # LeetCode
 
+![Travis CI Status](https://travis-ci.org/lulululbj/LeetCode.svg?branch=master)
+
 
 #### [Array](src/main/luyao/array) (10/101)
 
