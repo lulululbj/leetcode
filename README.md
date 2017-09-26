@@ -1,6 +1,7 @@
 # LeetCode
 
 ![Travis CI Status](https://travis-ci.org/lulululbj/LeetCode.svg?branch=master)
+[![codecov](https://codecov.io/gh/lulululbj/LeetCode/branch/master/graph/badge.svg)](https://codecov.io/gh/lulululbj/LeetCode)
 
 
 #### [Array](src/main/luyao/array) (10/101)
