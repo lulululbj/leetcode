@@ -4,7 +4,6 @@ out
 .idea
 LeetCode.iml
 settings.gradle
-build.gradle
 src/main/resources/
 src/test/resources/
 gradle/
