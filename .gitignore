@@ -3,11 +3,11 @@ out
 .gradle
 .idea
 LeetCode.iml
-settings.gradle
+#settings.gradlew
 src/main/resources/
 src/test/resources/
-gradle/
-gradlew
-gradlew.bat
+#gradle/
+#gradlew
+#gradlew.bat
 src/main/main.iml
 src/test/test.iml
