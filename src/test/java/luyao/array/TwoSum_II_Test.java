@@ -15,11 +15,16 @@ public class TwoSum_II_Test {
 
         TwoSum_II twoSumIi=new TwoSum_II();
 
-        int[] nums={3,2,8,2};
+        int[] nums={1,3,2,8,2};
         int target=11;
+        int target2=13;
         int[] result= twoSumIi.solution(nums,target);
-        assertEquals(result[0],1);
-        assertEquals(result[1],3);
+        int[] result2= twoSumIi.solution(nums,target2);
+        assertEquals(result[0],2);
+        assertEquals(result[1],4);
+        assertEquals(result2,null);
+
+
     }
 
 }
