@@ -1,12 +1,12 @@
-package luyao.array;
+package luyao._001;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 /**
- * Created by Lu
- * on 2017/7/27 00:06
+ * Created by luyao
+ * on 2018/4/18 16:42
  */
 public class TwoSumTest {
 

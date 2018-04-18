@@ -24,8 +24,6 @@ public class SearchInsert {
 
     // 循环遍历
     public int solution(int[] nums, int target) {
-
-
         for (int i = 1; i <= nums.length - 1; i++) {
             if (target == nums[i]) return i;
             if (target > nums[i - 1] && target < nums[i]) return i;
@@ -35,7 +33,7 @@ public class SearchInsert {
         else return 0;
     }
 
-    // 类似二分法
+    // 二分法
     public int solution2(int[] nums, int target) {
         int start = 0;
         int end = nums.length - 1;
@@ -45,7 +43,6 @@ public class SearchInsert {
             if (target > nums[middle]) start = middle + 1;
             else end = middle - 1;
         }
-
         return start;
     }
 }
