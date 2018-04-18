@@ -21,7 +21,8 @@ import luyao.data.ListNode;
 public class AddTwoNumbers {
 
     public static ListNode solution(ListNode l1, ListNode l2) {
-        ListNode result = new ListNode(0);
+        ListNode head = new ListNode(0);
+        ListNode result=head;
         int sum = 0;
         while (l1 != null || l2 != null) {
             sum /= 10;
@@ -39,7 +40,7 @@ public class AddTwoNumbers {
         }
         if (sum / 10 == 1) result.next = new ListNode(1);
 
-        return result.next;
+        return head.next;
     }
 
     public static void main(String[] args) {
