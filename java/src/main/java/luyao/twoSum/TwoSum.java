@@ -1,4 +1,4 @@
-package luyao._001;
+package luyao.twoSum;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,6 @@ import java.util.Map;
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1].
  *
- * 给定 int 数组 和指定值 target，返回不重复的两个元素下标，使得这两个元素之和等于 target
  */
 
 /**
@@ -21,7 +20,7 @@ import java.util.Map;
 public class TwoSum {
 
     /**
-     * Time Complexity: O(n2)
+     * Time Complexity: O(n^2)
      * Space Complexity: O(1)
      */
     public int[] solution(int[] nums, int target) {
@@ -35,8 +34,8 @@ public class TwoSum {
     }
 
     /**
-     * Time Complexity: O(n)   仅一次循环
-     * Space Complexity: O(n)  最多n个元素的HashTable
+     * Time Complexity: O(n)
+     * Space Complexity: O(n)
      */
     public int[] solution2(int[] nums, int target) {
 

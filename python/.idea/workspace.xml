@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba84fc22-9a42-4201-8ce4-050fd4116d42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../circle.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/Write.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/_001/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/_002/AddTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/ArrayPartition_I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/FindDisappearedNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/MaxProfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/Maximum_Average_Subarray_I.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/Maximum_Product_Of_Three_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/PascalTriangle_II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/PlusOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/RemoveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/SearchInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/array/TwoSum_II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/data/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/luyao/twoSum/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/1506501121874.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/_001/TwoSumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/ArrayPartition_I_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/FindDisappearedNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/MaxProfitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/Maximum_Average_Subarray_ITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/Maximum_Product_Of_Three_NumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/PascalTriangle_II_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/PlusOneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/RemoveDuplicatesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/RemoveElementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/SearchInsertTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/array/TwoSum_II_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/luyao/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../update_log.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="179044866">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="py" value="233" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="233" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="1031298128">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="54" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twoSum/twoSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding>
+                <marker date="1540194033698" expanded="true" signature="354:356" ph="..." />
+                <marker date="1540194033698" expanded="true" signature="385:390" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/twoSum/twoSum.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="543" />
+    <option name="y" value="150" />
+    <option name="width" value="1446" />
+    <option name="height" value="1146" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="twoSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="twoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twoSum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twoSum/twoSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.twoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba84fc22-9a42-4201-8ce4-050fd4116d42" name="Default Changelist" comment="" />
+      <created>1540189302987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540189302987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13768546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32793018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/twoSum/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/twoSum/twoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <marker date="1540194033698" expanded="true" signature="354:356" ph="..." />
+            <marker date="1540194033698" expanded="true" signature="385:390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

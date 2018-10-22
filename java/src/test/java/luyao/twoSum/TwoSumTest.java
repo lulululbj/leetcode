@@ -1,18 +1,18 @@
-package luyao._001;
+package luyao.twoSum;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 /**
  * Created by luyao
- * on 2018/4/18 16:42
+ * on 2018/10/22 14:36
  */
 public class TwoSumTest {
 
-
     @Test
-    public void twosum() throws Exception {
+    public void twoSum() {
 
         TwoSum twoSum = new TwoSum();
 
@@ -27,8 +27,8 @@ public class TwoSumTest {
 
         assertEquals(nums[result[0]] + nums[result[1]], target);
         assertEquals(nums[result2[0]] + nums[result2[1]], target);
-        assertEquals(null,result3);
-        assertEquals(null,result4);
+        assertNull(result3);
+        assertNull(result4);
     }
 
 }
