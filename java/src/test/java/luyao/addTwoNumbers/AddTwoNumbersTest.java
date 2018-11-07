@@ -2,6 +2,8 @@ package luyao.addTwoNumbers;
 
 import org.junit.Test;
 
+import java.util.List;
+
 import static org.junit.Assert.*;
 
 /**
@@ -27,10 +29,16 @@ public class AddTwoNumbersTest {
         node4.next = node5;
         node5.next = node6;
 
-        ListNode result = solution(node1, node4);
+        ListNode result = AddTwoNumbers.solution(node1, node4);
 
-        System.out.println(result.val);
-        System.out.println(result.next.val);
-        System.out.println(result.next.next.val);
+        assertEquals(7,result.val);
+        assertEquals(0,result.next.val);
+        assertEquals(8,result.next.next.val);
+
+        ListNode node7=new ListNode(5);
+        ListNode node8=new ListNode(5);
+        ListNode result2=AddTwoNumbers.solution(node7,node8);
+        assertEquals(0,result2.val);
+        assertEquals(1,result2.next.val);
     }
 }

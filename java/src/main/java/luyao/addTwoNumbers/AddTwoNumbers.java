@@ -23,7 +23,7 @@ public class AddTwoNumbers {
     public static ListNode solution(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);
         ListNode head = result;
-        int sum = 0, carry = 0;
+        int sum = 0, carry=0;
         while (l1 != null || l2 != null) {
 
             if (l1 != null) {
@@ -41,10 +41,8 @@ public class AddTwoNumbers {
             carry = sum / 10;
             sum = carry;
         }
+        if (carry>0) result.next=new ListNode(carry);
         return head.next;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
