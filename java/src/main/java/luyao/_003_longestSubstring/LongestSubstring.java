@@ -49,7 +49,7 @@ class LongestSubstring {
                     subString.add(ss);
                 }
                 length = subString.size();
-                if (j == s.length() - 1) subString.clear();
+                if (j == s.length() - 1) subString.clear(); // 每一轮结束要清空 subString，因为要连续子串
             }
             maxLength = Math.max(maxLength, length);
 
