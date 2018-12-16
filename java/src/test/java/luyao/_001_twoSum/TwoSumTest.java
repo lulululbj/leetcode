@@ -1,4 +1,4 @@
-package luyao.twoSum;
+package luyao._001_twoSum;
 
 import org.junit.Test;
 

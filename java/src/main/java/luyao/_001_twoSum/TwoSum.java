@@ -1,4 +1,4 @@
-package luyao.twoSum;
+package luyao._001_twoSum;
 
 import java.util.HashMap;
 import java.util.Map;
