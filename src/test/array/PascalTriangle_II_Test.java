@@ -1,8 +1,8 @@
-package test.array;
+package array;
 
 import leetcode.array.PascalTriangle_II;
 import org.junit.Test;
-import test.utils.Utils;
+import utils.Utils;
 
 import java.util.List;
 

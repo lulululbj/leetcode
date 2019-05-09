@@ -33,7 +33,6 @@ public class RemoveNthNodeFromEnd {
 
         next = head;
         ListNode prev = null;
-        ListNode after = null;
         int index = length - n + 1;
 
         if (index == 1) { // 删除头结点
