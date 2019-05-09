@@ -1,4 +1,4 @@
-package test._704_binary_search;
+package _704_binary_search;
 
 import leetcode._704_binary_search.BinarySearch;
 import org.junit.Test;

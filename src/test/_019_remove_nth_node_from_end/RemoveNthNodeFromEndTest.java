@@ -1,4 +1,4 @@
-package test._019_remove_nth_node_from_end;
+package _019_remove_nth_node_from_end;
 
 import leetcode._019_remove_nth_node_from_end.RemoveNthNodeFromEnd;
 import leetcode.data.ListNode;

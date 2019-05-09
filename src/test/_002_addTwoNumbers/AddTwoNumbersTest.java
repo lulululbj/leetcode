@@ -1,4 +1,4 @@
-package test._002_addTwoNumbers;
+package _002_addTwoNumbers;
 
 import leetcode._002_addTwoNumbers.AddTwoNumbers;
 import leetcode.data.ListNode;

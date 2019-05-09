@@ -1,4 +1,4 @@
-package test.array;
+package array;
 
 import leetcode.array.ArrayPartition_I;
 import org.junit.Test;

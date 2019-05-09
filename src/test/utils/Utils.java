@@ -1,4 +1,4 @@
-package test.utils;
+package utils;
 
 /**
  * Created by Lu

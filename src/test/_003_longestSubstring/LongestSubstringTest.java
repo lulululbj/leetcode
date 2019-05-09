@@ -1,4 +1,4 @@
-package test._003_longestSubstring;
+package _003_longestSubstring;
 
 import leetcode._003_longestSubstring.LongestSubstring;
 import org.junit.Before;
