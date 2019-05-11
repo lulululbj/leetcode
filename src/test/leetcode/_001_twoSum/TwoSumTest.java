@@ -1,6 +1,5 @@
-package _001_twoSum;
+package leetcode._001_twoSum;
 
-import leetcode._001_twoSum.TwoSum;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

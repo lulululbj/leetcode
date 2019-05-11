@@ -1,6 +1,8 @@
-# Add Two numbers
+# 2. Add Two numbers
 
-`Medium` `Linked List` `Math`
+`Medium`
+
+`Linked List` `Math`
 
 ## Description
 

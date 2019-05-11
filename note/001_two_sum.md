@@ -1,6 +1,8 @@
-# Two Sum
+# 1. Two Sum
 
-`Easy`  `Array`  `Hash Table`
+`Easy`  
+
+`Array`  `Hash Table`
 
 ## Description
 

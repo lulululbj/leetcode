@@ -13,4 +13,5 @@
 |2|[Add Two Numbers](note/002_add_two_numbers.md) | [Java](src/main/leetcode/_002_addTwoNumbers/AddTwoNumbers.java)  |Medium|
 |3| [Longest Substring Without Repeating Characters](note/003_longest_substring_without_repeating_characters.md) | [Java](src/main/leetcode/_003_longestSubstring/LongestSubstring.java)  |Medium|
 |19| [Remove Nth Node From End of List](note/019_remove_nth_node_from_end.md)|[Java](src/main/leetcode/_019_remove_nth_node_from_end/RemoveNthNodeFromEnd.java)  |Medium|  
+|21| [Merge Two Sorted Lists](note/021_merge_two_sorted_list.md)|[Java](src/main/leetcode/_021_merge_two_sorted_list/MergeTwoSortedList.java)  |Easy|  
 |704| [Binary Search](note/704_binary_search.md)                   | [Java](src/main/leetcode/_704_binary_search/BinarySearch.java)  |Easy|

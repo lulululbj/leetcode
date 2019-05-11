@@ -1,6 +1,8 @@
-# Longest Substring Without Repeating Characters
+# 3. Longest Substring Without Repeating Characters
 
-`Medium`  `Hash Table`  `Two Pointers`  `String`
+`Medium`  
+
+`Hash Table`  `Two Pointers`  `String`
 
 ## Description
 
@@ -10,8 +12,8 @@ Given a string, find the length of the **longest substring** without repeating c
 
 ```
 Input: "abcabcbb"
-Output: 3 
-Explanation: The answer is "abc", with the length of 3. 
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
 ```
 
 **Example 2:**
@@ -27,7 +29,7 @@ Explanation: The answer is "b", with the length of 1.
 ```
 Input: "pwwkew"
 Output: 3
-Explanation: The answer is "wke", with the length of 3. 
+Explanation: The answer is "wke", with the length of 3.
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 
@@ -57,7 +59,7 @@ public int solution1(String s) {
                 }
                 length = subString.size();
                 // 每一轮结束要清空 subString，因为要连续子串
-                if (j == s.length() - 1) subString.clear(); 
+                if (j == s.length() - 1) subString.clear();
             }
             maxLength = Math.max(maxLength, length);
 
@@ -100,5 +102,3 @@ public int solution1(String s) {
 
 * 时间复杂度：O(n)
 * 空间复杂度：O(n)
-
-
