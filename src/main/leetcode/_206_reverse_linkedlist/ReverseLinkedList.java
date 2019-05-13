@@ -32,6 +32,10 @@ public class ReverseLinkedList {
     }
 
 
+    /**
+     * Time Complexity: O(n)
+     * Space Complexity: O(n)
+     */
     public ListNode solution2(ListNode head) {
         if (head == null || head.next == null) return head;
         ListNode node = solution2(head.next);

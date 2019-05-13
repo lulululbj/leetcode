@@ -28,9 +28,9 @@ public class ReverseLinkedList_II {
         int index = 0;
         while (current.next != null) {
 
-            if (index == m - 1) prev = current;
+            if (index == m - 1) prev = current; // prev 全程保持不动， next 永远插在 prev 后面
 
-            if (index >= m && index < n) { // 遍历至 m - n 位置时，将当前节点 cur 与 m 位置处的元素对调
+            if (index >= m && index < n) {
                 ListNode next = current.next;
                 current.next = next.next;
                 next.next = prev.next;
