@@ -23,10 +23,10 @@ public class ReverseLinkedList {
         ListNode prev = null;
 
         while (current != null) {
-            ListNode next = current.next;
-            current.next = prev;
-            prev = current;
-            current = next;
+           ListNode next = current.next;
+           current.next = prev;
+           prev = current;
+           current = next;
         }
         return prev;
     }
