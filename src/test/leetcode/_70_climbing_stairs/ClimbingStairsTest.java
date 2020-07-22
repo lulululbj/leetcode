@@ -1,4 +1,4 @@
-package leetcode._70_climbing_stairs;
+package leetcode._070_climbing_stairs;
 
 import org.junit.Test;
 
